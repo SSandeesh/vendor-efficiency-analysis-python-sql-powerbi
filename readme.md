@@ -24,3 +24,10 @@ Effective inventory and sales management are very crucial in the retail sector. 
 - GitHub
 
 ---
+## Dashboard
+Power BI Dashboard shows:
+- Vendor-wise Sales and Margins
+- Inventory Turnover
+- Bulk Purchase Savings
+
+![Vendor Efficiency Dashboard](Dash.png)
