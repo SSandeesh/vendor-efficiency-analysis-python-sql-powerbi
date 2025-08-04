@@ -1,5 +1,5 @@
 # Vendor Efficiency Analysis 
-Analyzing vendor efficiency and profitability to support strategic and inventory decisions using Python, SQL, PowerBI
+Analyzing vendor efficiency and profitability to support strategic and inventory decisions using Python, SQL and PowerBI
 
 ---
 ## Overview
