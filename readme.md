@@ -30,4 +30,4 @@ Power BI Dashboard shows:
 - Inventory Turnover
 - Bulk Purchase Savings
 
-![Vendor Efficiency Dashboard](Dash.png)
+![Vendor Efficiency Dashboard](Dashboard.png)
