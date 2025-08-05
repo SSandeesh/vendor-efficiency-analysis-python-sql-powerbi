@@ -1,14 +1,14 @@
-# Vendor Efficiency Analysis 
+# 📊Vendor Efficiency Analysis 
 Analyzing vendor efficiency and profitability to support strategic and inventory decisions using Python, SQL and PowerBI
 
 ---
-## Overview
+## 🎯Overview
 
 This project evaluates vendor performance and retail inventory dynamics to drive strategic insights for purchasing, pricing, and inventory optimization. 
 
 ---
 
-## Business Problem
+## 🔍Business Problem
 Effective inventory and sales management are very crucial in the retail sector. This project aims to:
 - Identify underperforming brands needing pricing or promotional adjustments
 - Determine vendor contributions to sales and profits
@@ -17,17 +17,25 @@ Effective inventory and sales management are very crucial in the retail sector. 
 
 ---
 
-## Tools & Technologies
+## ⚙️Tools & Technologies
 - Python (Pandas, Matplotlib, Seaborn, SciPy)
 - SQL (Retriving, Joins, Filtering)
 - Power BI (Visualizations)
 - GitHub
 
 ---
-## Dashboard
+## 📊Dashboard
 Power BI Dashboard shows:
 - Vendor-wise Sales and Margins
 - Inventory Turnover
 - Bulk Purchase Savings
 
 ![Vendor Efficiency Dashboard](Dashboard.png)
+
+---
+## 📌Final Recommendations
+- Expand vendor partnerships to minimize dependency risks
+- Streamline bulk purchasing to maximize cost efficiency
+- Revise pricing for slow-selling, high-margin brands
+- Strategically offload unsold stock to free up capital
+- Boost visibility and sales for underperforming vendors through marketing
